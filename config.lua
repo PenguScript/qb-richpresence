@@ -1,3 +1,5 @@
+print "qb-richpresence made by Pengu Script"
+print "version 1.0"
 Config = {}
 
 Config.DiscordLink = "https://discord.gg/PkJGQ6EdZp" -- Discord Server Join Link
